@@ -1,3 +1,11 @@
+## Development Discontinued
+
+**DolphinUWP was an unofficial fork of Dolphin Emulator for UWP/Xbox.**
+
+Development of this fork has been discontinued, and no further updates or support will be provided.
+
+For continued development and support, please visit [danprice142/dolphin](https://github.com/danprice142/dolphin).
+
 # DolphinUWP - A GameCube and Wii Emulator
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/SternXD/dolphin/buildwinrt.yml)
