@@ -4,7 +4,7 @@
 
 Development of this fork has been discontinued, and no further updates or support will be provided.
 
-For continued development and support, please visit [danprice142/dolphin](https://github.com/danprice142/dolphin).
+For continued development and support, please visit [danprice142/dolphin-uwp](https://github.com/danprice142/dolphin-uwp).
 
 # DolphinUWP - A GameCube and Wii Emulator
 
